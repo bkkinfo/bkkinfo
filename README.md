@@ -70,6 +70,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bkkinfo&show_icons=true&theme=gotham" alt="bkkinfo" />
+[![Bishnu's github stats](https://github-readme-stats.vercel.app/api?username=bkkinfo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/bkkinfo/github-readme-stats)
   
   
 ### Packages I created
