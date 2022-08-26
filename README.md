@@ -30,7 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-<h2 align="center">A passionate Data Scientist from India</h2>
+<h2 align="left">A passionate Data Scientist from India</h2>
 
 
 
