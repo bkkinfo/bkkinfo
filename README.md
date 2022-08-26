@@ -17,7 +17,7 @@
 
 <br />
 
-hi, i'm [Bishnu Kashyap](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Bishnu Kashyap](https://abhishknads.me/), a passionate self-taught full stack Data Science and a MLOps engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -70,7 +70,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bkkinfo&show_icons=true&theme=gotham" alt="bkkinfo" />
-[![Bishnu's github stats](https://github-readme-stats.vercel.app/api?username=bkkinfo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/bkkinfo/github-readme-stats)
   
   
 ### Packages I created
