@@ -14,7 +14,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
 
 
@@ -48,9 +47,6 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -62,14 +58,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bkkinfo&show_icons=true&theme=gotham" alt="bkkinfo" />
-  
-  
-### Packages I created
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkkinfo&repo=data-science-template)](https://github.com/bkkinfo/data-science-template) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkkinfo&repo=analyze_github_feed)](https://github.com/bkkinfo/analyze_github_feed)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkkinfo&repo=top-github-scraper)](https://github.com/bkkinfo/top-github-scraper) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkkinfo&repo=python_snippet)](https://github.com/bkkinfo/python_snippet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkkinfo&repo=same-stats-different-graphs)](https://github.com/bkkinfo/same-stats-different-graphs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkkinfo&repo=rich-dataframe)](https://github.com/bkkinfo/rich-dataframe)
